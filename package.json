@@ -1,0 +1,11 @@
+{
+  "name": "@pxlblue/analytics",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
